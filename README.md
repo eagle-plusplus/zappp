@@ -25,13 +25,7 @@
 
    ![image](https://github.com/eagle-plusplus/zappp/assets/84104483/fdd60192-e003-4b39-8e19-d7a1d23e4afe)
 
-   ![image](https://github.com/eagle-plusplus/zappp/assets/84104483/68d178c2-3ea9-4255-9b7b-0bbbf61aee8b)
-
-   ![image](https://github.com/eagle-plusplus/zappp/assets/84104483/be689342-3618-473d-b3cc-1f652a66b10e)
-
-    ![image](https://github.com/eagle-plusplus/zappp/assets/84104483/e6e8f20f-99d1-45b6-b945-2bc7f27bcd07)
-
-
+ 
 
 6. Automated Attacks
 
@@ -42,6 +36,12 @@
 
     Login Mechanisms: ZAP can be configured to test applications that require authentication. You can set up scripts to log in and maintain sessions.
     Session Management: It tests for weaknesses in session management mechanisms, such as session fixation, insufficient session expiration, and others.
+
+  ![image](https://github.com/eagle-plusplus/zappp/assets/84104483/68d178c2-3ea9-4255-9b7b-0bbbf61aee8b)
+
+   ![image](https://github.com/eagle-plusplus/zappp/assets/84104483/be689342-3618-473d-b3cc-1f652a66b10e)
+
+    ![image](https://github.com/eagle-plusplus/zappp/assets/84104483/e6e8f20f-99d1-45b6-b945-2bc7f27bcd07)
 
 8. Reporting
 
